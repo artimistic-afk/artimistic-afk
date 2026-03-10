@@ -19,7 +19,7 @@
 
 ```python
 abdurrahman = {
-    "Location"    : "Berlin, Germany 🇩🇪, Islamabad, Pakistan",
+    "Location"    : "Berlin, Germany, Islamabad, Pakistan",
     "Role"        : "Junior Data Scientist & ML Engineer",
     "Education"   : "MSc AI, Data Science & Digital Business — GISMA, Germany",
     "Focus"       : ["LLM Fine-Tuning", "RAG Applications", "Predictive Modeling", "MLOps"],
@@ -83,7 +83,6 @@ I build end-to-end machine learning systems — from raw data to deployed, measu
 
 ## 📈 GitHub Stats
 
-
 <div align="center">
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=artimistic-afk&theme=tokyonight&hide_border=true)
@@ -96,8 +95,8 @@ I build end-to-end machine learning systems — from raw data to deployed, measu
 
 - 🎓 **MSc Artificial Intelligence, Data Science & Digital Business** — GISMA University, Germany *(2023–2024)*
 - 🎓 **BSc Computer Science** — Iqra University, Pakistan *(2017–2021)*
-- 📜 Machine Learning with Python and R
-- 📜 The Complete SQL Bootcamp: Zero to Hero
+- 📜 [Machine Learning A-Z: AI, Python & R + ChatGPT Prize](https://www.udemy.com/certificate/UC-ed868c12-f9fc-43c9-86fe-ccd386d12171/)
+- 📜 [The Complete SQL Bootcamp: Go from Zero to Hero](https://www.udemy.com/certificate/UC-0429f167-5166-496a-bfaf-a8006e183334/)
 
 ---
 
