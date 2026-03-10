@@ -83,10 +83,10 @@ I build end-to-end machine learning systems — from raw data to deployed, measu
 
 ## 📈 GitHub Stats
 
+
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=artimistic-afk&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=artimistic-afk&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+![](https://github-readme-streak-stats.herokuapp.com/?user=artimistic-afk&theme=tokyonight&hide_border=true)
 
 </div>
 
