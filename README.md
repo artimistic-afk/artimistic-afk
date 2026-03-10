@@ -19,7 +19,7 @@
 
 ```python
 abdurrahman = {
-    "location"    : "Berlin, Germany 🇩🇪",
+    "location"    : "Berlin, Germany 🇩🇪, Islamabad, Pakistan",
     "role"        : "Junior Data Scientist & ML Engineer",
     "education"   : "MSc AI, Data Science & Digital Business — GISMA, Germany",
     "focus"       : ["LLM Fine-Tuning", "RAG Applications", "Predictive Modeling", "MLOps"],
