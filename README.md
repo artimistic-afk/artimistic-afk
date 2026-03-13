@@ -16,10 +16,9 @@
 ---
 
 ## 👋 About Me
-
 ```python
-abdurrahman = {
-    "Location"    : "Berlin, Germany, Islamabad, Pakistan",
+Abdurrahman Tahir = {
+    "Location"    : "Islamabad, Pakistan 🇵🇰 — Targeting Berlin and Islamabad",
     "Role"        : "Junior Data Scientist & ML Engineer",
     "Education"   : "MSc AI, Data Science & Digital Business — GISMA, Germany",
     "Focus"       : ["LLM Fine-Tuning", "RAG Applications", "Predictive Modeling", "MLOps"],
@@ -36,6 +35,7 @@ I build end-to-end machine learning systems — from raw data to deployed, measu
 
 | Project | Description | Stack |
 |--------|-------------|-------|
+| [🧠 DocuMind — AI Document Q&A API](https://github.com/artimistic-afk/DocuMind) | Production-ready RAG API — upload any PDF and ask questions in plain English with page citations | FastAPI · LangChain · FAISS · Groq · Docker |
 | [🤖 Customer Support Chatbot](https://github.com/artimistic-afk/CustomerSupportBot-LLM-FineTune) | Fine-tuned DistilGPT-2 on support dialogues with Gradio UI for real-time inference | PyTorch · HuggingFace · Gradio |
 | [⚙️ AI Invoice Automation](https://github.com/artimistic-afk/AI-Invoice-Automation-n8n) | End-to-end AI invoice processing with webhook ingestion, validation & approval routing | n8n · Docker · JavaScript |
 | [📉 Customer Churn Prediction](https://github.com/artimistic-afk/Customer-Churn-XGBoost) | XGBoost pipeline achieving **0.89 ROC-AUC** and **84% accuracy** on Telco dataset | XGBoost · scikit-learn · joblib |
@@ -65,6 +65,7 @@ I build end-to-end machine learning systems — from raw data to deployed, measu
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
