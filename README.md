@@ -35,6 +35,7 @@ I build end-to-end machine learning systems — from raw data to deployed, measu
 
 | Project | Description | Stack |
 |--------|-------------|-------|
+| [🛍️ Sentiment Analysis Dashboard](https://github.com/artimistic-afk/sentiment-analysis-dashboard) | End-to-end NLP pipeline analyzing Amazon reviews — RoBERTa sentiment, spaCy aspect extraction, BERTopic topic modeling, Streamlit dashboard | HuggingFace · spaCy · BERTopic · Streamlit · Plotly |
 | [🧠 DocuMind — AI Document Q&A API](https://github.com/artimistic-afk/DocuMind) | Production-ready RAG API — upload any PDF and ask questions in plain English with page citations | FastAPI · LangChain · FAISS · Groq · Docker |
 | [🤖 Customer Support Chatbot](https://github.com/artimistic-afk/CustomerSupportBot-LLM-FineTune) | Fine-tuned DistilGPT-2 on support dialogues with Gradio UI for real-time inference | PyTorch · HuggingFace · Gradio |
 | [⚙️ AI Invoice Automation](https://github.com/artimistic-afk/AI-Invoice-Automation-n8n) | End-to-end AI invoice processing with webhook ingestion, validation & approval routing | n8n · Docker · JavaScript |
